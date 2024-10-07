@@ -1,0 +1,22 @@
+{
+  "name": "meu-primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Atividade escolar Desenvolvimento de Sistemas SENAI 2024.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x0Davi0x0/meu-primeiro-projeto.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Davi Kasmirski dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0x0Davi0x0/meu-primeiro-projeto/issues"
+  },
+  "homepage": "https://github.com/0x0Davi0x0/meu-primeiro-projeto#readme"
+}
